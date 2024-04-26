@@ -1,5 +1,7 @@
 Beautiful is better than ugly.
 Readability counts.
+Simple is better than complexe.
+Complex is better than complicated.
 
 The Zen of Python, by Tim Peters
 
